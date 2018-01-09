@@ -1,6 +1,5 @@
 #include <iostream>
 
-
 int main(){
-	std::cout << "Fight on!" << std::enld;
+	std::cout << "FightOn!" << std::endl;
 }
